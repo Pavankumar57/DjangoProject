@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+encoding//website/music/migrations/0001_initial.py=utf-8
+encoding//website/music/migrations/0002_song_is_favourite.py=utf-8
